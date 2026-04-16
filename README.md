@@ -1,6 +1,3 @@
-Here’s your **clean, professional `README.md`** — ready to upload on GitHub 👇
-
----
 
 # 📊 Data Modeler – Star Schema Data Modeling in Power BI
 
